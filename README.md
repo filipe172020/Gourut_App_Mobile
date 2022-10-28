@@ -2,4 +2,5 @@
 
 Aplicativo de interação com o usuário feito em React Native (em andamento)
 
-![Untitled design](https://user-images.githubusercontent.com/62525275/198721789-dfa8eebc-96d8-40ec-9d1f-195aa5a2046b.png)
+![Add a heading](https://user-images.githubusercontent.com/62525275/198722450-d8450680-f5de-4855-8205-64cac2340e01.png)
+
